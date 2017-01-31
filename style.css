@@ -33,13 +33,14 @@
       margin-bottom: 0;
       font-size: 12px;
       letter-spacing: 5px;
+      color: #000000;
   }
   .navbar-nav  li a:hover {
       color: #1abc9c !important;
   }
  .jumbotron {
-    background-color: #f4511e;
-    color: #fff;
+    background-color: #f4511e !important;
+    color: #fff !important;
     padding: 100px 25px;
 }
 
