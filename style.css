@@ -3,6 +3,18 @@
       line-height: 1.8;
       color: #f5f6f7;
   }
+
+.foto{
+
+	border-radius: 50%;
+	width: 15em;
+	height: 18em;
+
+
+
+}
+
+
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;}
   .bg-1 { 
