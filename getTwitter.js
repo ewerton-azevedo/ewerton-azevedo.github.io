@@ -27,7 +27,7 @@ b.push(d);c++}E(b);z=!1;0<x.length&&(L.fetch(x[0]),x.splice(0,1))}};return windo
 var configProfile = {
   "profile": {"screenName": 'ewertonazeved_'},
   "domId": 'twitter-feed',
-  "maxTweets": 1,
+  "maxTweets": 5,
   "enableLinks": true, 
   "showUser": true,
   "showTime": true,
