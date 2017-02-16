@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
-var x = '$(".fadeIn")';
  var fadeIn = function(X){
+ var x = '$(".fadeIn")';
   x.css("display", "none"); 
   x.fadeIn(3000);
   
