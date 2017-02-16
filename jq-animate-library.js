@@ -5,7 +5,7 @@ javascript: (function(e, s) {
         console.log('jQuery injected');
     };
     document.head.appendChild(e);
-})(document.createElement('script'), '//code.jquery.com/jquery-latest.min.js')
+})(document.createElement('script'), 'http://code.jquery.com/jquery-latest.min.js')
 
 
 $(document).ready(function(){
