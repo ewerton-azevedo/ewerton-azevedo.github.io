@@ -1,9 +1,12 @@
 
 $(document).ready(function(){
+ 
+ var x = $('.fadeIn');
+ 
  var fade = function(X){
  
-  $('.fadeIn').css("display", "none"); 
-  $('.fadeIn').fadeIn(3000);
+  x.css("display", "none"); 
+  x.fadeIn(3000);
   
 }
 fade();})
